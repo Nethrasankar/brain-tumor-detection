@@ -1,0 +1,1 @@
+Successfully developed a deep learning-based medical image analysis system for Brain Tumor Detection and Ultrasound Nerve Segmentation. The project utilizes Convolutional Neural Networks (CNNs) and U-Net architectures to accurately identify brain tumors from MRI scans and perform precise nerve segmentation from ultrasound images. 
